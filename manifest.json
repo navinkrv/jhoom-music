@@ -1,0 +1,22 @@
+{
+    "short_name": "Jhoom Music",
+    "name": "Jhoom Music",
+    "icons": [
+      {
+        "src": "logo.jpg",
+        "sizes": "64x64 32x32 24x24 16x16 500x500",
+        "type": "image/x-icon",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "logo.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+  }
+  
