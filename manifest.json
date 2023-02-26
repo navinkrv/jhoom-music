@@ -20,6 +20,7 @@
     "background_color": "#ffffff",
     "lang": "en",
   "dir": "auto",
+    "prefer_related_applications":true,
   "scope": "https://navinkrv.github.io/jhoom-music/",
   "orientation": "portrait",
   "categories": [
